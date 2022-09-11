@@ -16,4 +16,4 @@ LGPL-2.1ライセンスに従います。
 
 ## 作者
 - JA1TYE/Ryota Suzuki([@JA1TYE](https://twitter.com/JA1TYE))
-- Webサイト：[https://t-techlab.com]
+- Webサイト：[https://t-techlab.com](https://t-techlab.com)
